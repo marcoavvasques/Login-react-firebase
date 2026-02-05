@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Login-react-firebase/static/css/main.145ef5d8.css",
-    "main.js": "/Login-react-firebase/static/js/main.a3982d71.js",
+    "main.js": "/Login-react-firebase/static/js/main.65765003.js",
     "static/media/404notfound.png": "/Login-react-firebase/static/media/404notfound.28bfda7c87c82d5afa3a.png",
     "static/media/sparkles.png": "/Login-react-firebase/static/media/sparkles.9e431faad82c065aa218.png",
     "static/media/background.png": "/Login-react-firebase/static/media/background.775928bdbfa1aedf0ab5.png",
@@ -11,10 +11,10 @@
     "static/media/welcome.png": "/Login-react-firebase/static/media/welcome.63148ec30c162e1380a1.png",
     "index.html": "/Login-react-firebase/index.html",
     "main.145ef5d8.css.map": "/Login-react-firebase/static/css/main.145ef5d8.css.map",
-    "main.a3982d71.js.map": "/Login-react-firebase/static/js/main.a3982d71.js.map"
+    "main.65765003.js.map": "/Login-react-firebase/static/js/main.65765003.js.map"
   },
   "entrypoints": [
     "static/css/main.145ef5d8.css",
-    "static/js/main.a3982d71.js"
+    "static/js/main.65765003.js"
   ]
 }
