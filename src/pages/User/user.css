@@ -1,0 +1,115 @@
+main{
+    width: 100%;
+    height: calc(100vh - 50px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    background-image: 
+    url('../../images/Wavy_Gen-01_Single-07.png'),
+    url('../../images/sparkles.png'),
+    url('../../images/background.png');
+
+    background-position: 
+    bottom right,
+    center,
+    center;
+
+    background-size:
+    45% 55%,
+    100% 100vh,
+    100% 100vh;
+
+    background-repeat: 
+    no-repeat,
+    no-repeat,
+    no-repeat;
+}
+
+section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color:rgba(94, 132, 202, 0.9);
+    max-width: 500px;
+    width: 80%;
+    max-height: 500px;
+    height: 80%;
+    border: 2px solid white;
+    border-radius: 8px;
+}
+
+strong{
+    margin: 15px;
+    width: 80%;
+    height: 15%;
+    text-align: center;
+    font-size: 30px;
+}
+
+span{
+    margin: 15px;
+    width: 80%;
+    height: 15%;
+    font-size: 24px;
+    font-style: italic;
+    overflow-wrap: break-word;
+}
+
+span p{
+    color: white;
+}
+
+span input{
+    width: 80%;
+    padding: 10px;
+}
+
+section .dica{
+    font-size: 12px;
+    margin-top: -15px;
+    width: 80%;
+    height: 15%;
+    overflow-wrap: break-word;
+    color: white;
+}
+
+button{
+    padding: 3px;
+    margin: 15px;
+    width: 80%;
+    height: 15%;
+    font-size: 18px;
+    background-color:rgba(0, 0, 0, 0.3);
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+button:hover{
+background-color: rgb(0, 0, 0);
+transition: 1s;
+}
+
+@media(max-width: 600px){
+
+strong{
+    font-size: 20px;
+}
+
+span{
+    font-size: 18px;
+}
+
+button{
+    font-size: 18px; 
+}
+
+}
+
+@media(max-height: 530px){
+section{
+    display: none;
+}
+}
