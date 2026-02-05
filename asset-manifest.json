@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Login-react-firebase/static/css/main.145ef5d8.css",
+    "main.js": "/Login-react-firebase/static/js/main.d2185f8d.js",
+    "static/media/404notfound.png": "/Login-react-firebase/static/media/404notfound.28bfda7c87c82d5afa3a.png",
+    "static/media/sparkles.png": "/Login-react-firebase/static/media/sparkles.9e431faad82c065aa218.png",
+    "static/media/background.png": "/Login-react-firebase/static/media/background.775928bdbfa1aedf0ab5.png",
+    "static/media/Wavy_Gen-01_Single-07.png": "/Login-react-firebase/static/media/Wavy_Gen-01_Single-07.e1d9952e584ebe2f2bc8.png",
+    "static/media/20943394.png": "/Login-react-firebase/static/media/20943394.3d69ba58e06471e0e41b.png",
+    "static/media/Signin.png": "/Login-react-firebase/static/media/Signin.e17b06cfd630bfaa34a4.png",
+    "static/media/welcome.png": "/Login-react-firebase/static/media/welcome.63148ec30c162e1380a1.png",
+    "index.html": "/Login-react-firebase/index.html",
+    "main.145ef5d8.css.map": "/Login-react-firebase/static/css/main.145ef5d8.css.map",
+    "main.d2185f8d.js.map": "/Login-react-firebase/static/js/main.d2185f8d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.145ef5d8.css",
+    "static/js/main.d2185f8d.js"
+  ]
+}
